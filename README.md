@@ -8,7 +8,7 @@
 
 [![Stars](https://img.shields.io/github/stars/resumax/coding-project-ideas?style=flat&color=E879A3&labelColor=0A0A0E)](https://github.com/resumax/coding-project-ideas) [![Powered by ResuMax](https://img.shields.io/badge/powered%20by-resumax.ai-E879A3?labelColor=0A0A0E)](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=coding-project-ideas) ![Updated](https://img.shields.io/badge/updated-automatically-F5F1EB?labelColor=0A0A0E)
 
-> **The loop:** [learn the roadmap](https://github.com/resumax/software-engineer-roadmaps) &rarr; **build a project to prove the skill** &rarr; [apply to open roles](https://github.com/resumax/new-grad-and-internship-jobs) &rarr; tailor your resume with the [Atlas coach](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=coding-project-ideas&utm_content=intro). This repo is the build step.
+> **The loop:** [learn the roadmap](https://github.com/resumax/software-engineer-roadmaps) &rarr; **build a project to prove the skill** &rarr; [apply to open roles](https://github.com/resumax/new-grad-tech-jobs) &rarr; tailor your resume with the [Atlas coach](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=coding-project-ideas&utm_content=intro). This repo is the build step.
 
 ## Browse
 
@@ -143,7 +143,7 @@
 
 ### Part of the open-source ResuMax stack
 
-[**Roadmaps**](https://github.com/resumax/software-engineer-roadmaps) to learn it &nbsp;·&nbsp; **Projects** to prove it (you are here) &nbsp;·&nbsp; [**Jobs**](https://github.com/resumax/new-grad-and-internship-jobs) to land it
+[**Roadmaps**](https://github.com/resumax/software-engineer-roadmaps) to learn it &nbsp;·&nbsp; **Projects** to prove it (you are here) &nbsp;·&nbsp; [**Jobs**](https://github.com/resumax/new-grad-tech-jobs) to land it &nbsp;·&nbsp; [**Internships**](https://github.com/resumax/tech-internships) to break in
 
 Built by **[ResuMax](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=coding-project-ideas)**, the AI career platform for software engineers. Learn the path, build the proof, land the role, and tailor your resume with the Atlas coach.
 
