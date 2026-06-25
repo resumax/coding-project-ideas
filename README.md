@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=coding-project-ideas&utm_content=banner"><img src="./assets/banner.svg" alt="ResuMax Coding Projects" width="100%"></a>
+  <a href="https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=coding-project-ideas&utm_content=banner"><img src="./assets/banner.png" alt="ResuMax Coding Projects" width="100%"></a>
 </div>
 
 # Coding Project Ideas To Get Hired
