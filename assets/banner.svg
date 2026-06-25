@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="1000" height="230" role="img" aria-label="Coding Project Ideas To Get Hired">
+  <defs>
+    <radialGradient id="glow" cx="0.85" cy="0.1" r="0.9">
+      <stop offset="0" stop-color="#E879A3" stop-opacity="0.16"/>
+      <stop offset="0.6" stop-color="#E879A3" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E879A3" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E879A3" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#E879A3" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="230" rx="18" fill="#0A0A0E"/>
+  <rect width="1000" height="230" rx="18" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="999" height="229" rx="17.5" fill="none" stroke="#F5F1EB" stroke-opacity="0.08"/>
+  <rect x="40" y="0" width="920" height="2" fill="url(#hair)"/>
+  <circle cx="720" cy="46" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="746" cy="46" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="772" cy="46" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="798" cy="46" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="824" cy="46" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="850" cy="46" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="876" cy="46" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="902" cy="46" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="928" cy="46" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="720" cy="72" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="746" cy="72" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="772" cy="72" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="798" cy="72" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="824" cy="72" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="850" cy="72" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="876" cy="72" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="902" cy="72" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="928" cy="72" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="720" cy="98" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="746" cy="98" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="772" cy="98" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="798" cy="98" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="824" cy="98" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="850" cy="98" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="876" cy="98" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="902" cy="98" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="928" cy="98" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="720" cy="124" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="746" cy="124" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="772" cy="124" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="798" cy="124" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="824" cy="124" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="850" cy="124" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="876" cy="124" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="902" cy="124" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="928" cy="124" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="720" cy="150" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="746" cy="150" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="772" cy="150" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="798" cy="150" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="824" cy="150" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="850" cy="150" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="876" cy="150" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="902" cy="150" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="928" cy="150" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="720" cy="176" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="746" cy="176" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="772" cy="176" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="798" cy="176" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="824" cy="176" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="850" cy="176" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="876" cy="176" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="902" cy="176" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/><circle cx="928" cy="176" r="1.4" fill="#F5F1EB" fill-opacity="0.06"/>
+  <g font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, monospace">
+    <circle cx="52" cy="56" r="5" fill="#E879A3"/>
+    <text x="68" y="61" font-size="15" letter-spacing="3" fill="#F5F1EB" font-weight="700">resumax<tspan fill="#E879A3">.ai</tspan></text>
+    <text x="960" y="61" text-anchor="end" font-size="12" letter-spacing="3" fill="#8A8A92">OPEN SOURCE · CODING PROJECTS</text>
+  </g>
+  <text x="40" y="138" font-family="'Inter', -apple-system, 'Segoe UI', Roboto, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="-1.2" fill="#F5F1EB">Coding Project Ideas To Get Hired</text>
+  <text x="40" y="176" font-family="'Inter', -apple-system, 'Segoe UI', Roboto, Arial, sans-serif" font-size="18" fill="#8A8A92">50 portfolio-grade builds, with an AI coach to ship them with you.</text>
+  <g transform="translate(40, 196)">
+    <rect width="186" height="2" fill="#F5F1EB" fill-opacity="0.06"/>
+  </g>
+  <text x="40" y="214" font-family="'JetBrains Mono', ui-monospace, 'SF Mono', Menlo, monospace" font-size="13" fill="#E879A3">Learn it · Build it · Land it &#8594;</text>
+</svg>
