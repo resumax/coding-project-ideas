@@ -13,8 +13,8 @@
     <text x="112" y="103" font-size="22" letter-spacing="4" fill="#F5F1EB" font-weight="700">resumax<tspan fill="#E879A3">.ai</tspan></text>
     <text x="90" y="168" font-size="18" letter-spacing="5" fill="#8A8A92">OPEN SOURCE · CODING PROJECTS</text>
   </g>
-  <text x="88" y="320" font-family="'Inter', -apple-system, 'Segoe UI', Roboto, Arial, sans-serif" font-size="84" font-weight="800" letter-spacing="-2.5" fill="#F5F1EB">Coding Project Ideas To Get Hired</text>
-  <text x="90" y="392" font-family="'Inter', -apple-system, 'Segoe UI', Roboto, Arial, sans-serif" font-size="30" fill="#8A8A92">50 portfolio-grade builds, with an AI coach to ship them with you.</text>
+  <text x="88" y="332" font-family="'Inter', -apple-system, 'Segoe UI', Roboto, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="-1.8" fill="#F5F1EB">Coding Project Ideas</text>
+  <text x="90" y="390" font-family="'Inter', -apple-system, 'Segoe UI', Roboto, Arial, sans-serif" font-size="29" fill="#8A8A92">50 portfolio-grade builds, with an AI coach to ship them with you.</text>
   <g transform="translate(90, 470)">
     <rect width="420" height="2" fill="#F5F1EB" fill-opacity="0.08"/>
   </g>
