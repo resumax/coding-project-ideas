@@ -4,9 +4,11 @@
 
 # Coding Project Ideas To Get Hired
 
-50 real, portfolio-grade projects across 9 domains, each with the exact skills it proves, the references to start, and an AI coach to build it with you. A shipped project beats a claimed skill.
+Hi, I'm **Erik Cupsa**, ex-Amazon engineer, CTO of Meuze, and the creator behind **SWErikCodes** (YouTube, TikTok, Instagram). I put this together from everything I've learned about what actually gets engineers hired: 50 portfolio-grade projects across 9 domains, each with the exact skills it proves and the references to start. A shipped project beats a claimed skill.
 
-[![Stars](https://img.shields.io/github/stars/resumax/coding-project-ideas?style=flat&color=E879A3&labelColor=0A0A0E)](https://github.com/resumax/coding-project-ideas) [![Powered by ResuMax](https://img.shields.io/badge/powered%20by-resumax.ai-E879A3?labelColor=0A0A0E)](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=coding-project-ideas) ![Updated](https://img.shields.io/badge/updated-automatically-F5F1EB?labelColor=0A0A0E)
+**This is open source, and it's better with more brains on it.** Know a project that belongs here, or a sharper way to build one? Add your knowledge: open an [issue](../../issues/new) or send a pull request.
+
+[![Stars](https://img.shields.io/github/stars/resumax/coding-project-ideas?style=flat&color=E879A3&labelColor=0A0A0E)](https://github.com/resumax/coding-project-ideas) [![Powered by ResuMax](https://img.shields.io/badge/powered%20by-resumax.ai-E879A3?labelColor=0A0A0E)](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=coding-project-ideas) ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-E879A3?labelColor=0A0A0E)
 
 > **The loop:** [learn the roadmap](https://github.com/resumax/software-engineer-roadmaps) &rarr; **build a project to prove the skill** &rarr; [apply to open roles](https://github.com/resumax/new-grad-tech-jobs) &rarr; tailor your resume with the [Atlas coach](https://resumax.ai/?utm_source=github&utm_medium=repo&utm_campaign=coding-project-ideas&utm_content=intro). This repo is the build step.
 
